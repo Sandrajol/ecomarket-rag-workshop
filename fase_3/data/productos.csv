@@ -1,4 +1,4 @@
-product_id,product_name,category,availability,returnable,return_condition
+codigo_producto,nombre_producto,categoria,disponibilidad,admite_devolucion,condicion_devolucion
 P001,Botella reutilizable de acero inoxidable,Hogar sostenible,Disponible,Si,Debe estar sin uso y en su empaque original
 P002,Cepillo de dientes de bambú,Higiene personal,Disponible,No,Producto de higiene personal
 P003,Bolsa reutilizable de algodón,Accesorios sostenibles,Disponible,Si,Debe estar sin uso y conservar etiquetas
